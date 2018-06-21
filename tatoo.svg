@@ -1,0 +1,64 @@
+<svg xmlns='http://www.w3.org/2000/svg' version='1.1' width='270' height='270'>
+	<line x1='68' y1='234' x2='84.5' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='118' y2='146.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='152' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='168.5' y2='117.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='152' y2='88' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='135' y2='59' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='68' y1='234' x2='68' y2='175.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='101.5' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='135.5' y2='175.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='152' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='135.5' y2='117' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='118.5' y2='88' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='68' y1='234' x2='51' y2='205' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='84.5' y2='205' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='118.5' y2='205' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='135' y2='176' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='118.5' y2='146.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='101.5' y2='117.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='84.5' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='68' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='51' y2='205' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='152' y2='205' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='135.5' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='118.5' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='118' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='101.5' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='84.5' y2='205' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='185.5' y2='205' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='169' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='152' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='152' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='135.5' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='118.5' y2='205' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='236' y1='176' x2='219.5' y2='205' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='117' x2='203' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='169' y1='59' x2='186' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='168.5' y2='117.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='152' y2='146.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='135' y2='176' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='234' x2='152' y2='205' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='185.5' y2='205' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='219.5' y2='205' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='152' y2='88' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='135.5' y2='117' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='118.5' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='234' x2='135.5' y2='175.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='169' y2='175.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='203' y2='175.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+
+	<line x1='101' y1='59' x2='135' y2='59' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='117' x2='118.5' y2='88' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='34' y1='176' x2='101.5' y2='117.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+	<line x1='68' y1='234' x2='118.5' y2='146.5' stroke='#700' stroke-width='3' stroke-linecap='round'/>
+	<line x1='135' y1='234' x2='152' y2='146.5' stroke='#000' stroke-width='3' stroke-linecap='round'/>
+	<line x1='203' y1='234' x2='186' y2='146.5' stroke='#707' stroke-width='3' stroke-linecap='round'/>
+</svg>
