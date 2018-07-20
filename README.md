@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tatoo.svg" />
+  <img src="tatoo.svg" width="100" alt="meu brasão: um símbolo com 27 linhas e 3 lados, criado a partir de um triângulo; foram postos três pontos em cada lado, e cada ponto foi ligado a todos os pontos dos outros lados" title="meu brasão: um símbolo com 27 linhas e 3 lados, criado a partir de um triângulo; foram postos três pontos em cada lado, e cada ponto foi ligado a todos os pontos dos outros lados" />
 </p>
 
 Fiz esse texto para ajudar pessoas trans após a mudança do nome no cartório, com os outros documentos. Se conhecerem pessoas trans, ou conhecerem quem conheça, compartilhe.
