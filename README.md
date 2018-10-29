@@ -35,4 +35,4 @@ Fiz um [kanban*](https://github.com/darakeon/lcsd/projects/1) pros documentos qu
 
 É isso que lembro. Se tiver alguma dúvida, se cadastra aqui no [github](https://github.com/) e bota a dúvida no cartãozinho onde tem o documento que você tem dúvida. Se eu puder ajudar, ficarei feliz!
 
-*&ast; kanban uma lista de tarefas que tem coluninhas de cada estágio do que você tá fazendo*
+*&ast; kanban, de forma simplificada, é uma lista de tarefas que tem coluninhas de cada estágio do que você tá fazendo*
