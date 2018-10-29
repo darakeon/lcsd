@@ -8,7 +8,12 @@ Quando veio finalmente a certidão retificada, além da felicidade, veio a chuva
 
 Fiz um [kanban*](https://github.com/darakeon/lcsd/projects/1) pros documentos que eu precisava alterar. Fui colocando documento a documento, e movendo conforme ia avançando. Agora estou quase terminando. E feliz.
 
-Alguns pontos a ressaltar:
+### Regulamentação da mudança direto em cartórios
+
+- [Dados do ato normativo](http://www.cnj.jus.br/atos-normativos?documento=2623)
+- [Texto do ato normativo](http://www.cnj.jus.br/busca-atos-adm?documento=3503)
+
+### Pontos a ressaltar
 
 - O primeiro documento depois da [certidão](https://github.com/darakeon/lcsd/issues/1) é uma boa ideia ser o [RG](https://github.com/darakeon/lcsd/issues/2), é pedido em várias outras alterações;
 
