@@ -2,7 +2,7 @@
   <img src="tatoo.svg" width="100" alt="meu brasão: um símbolo com 27 linhas e 3 lados, criado a partir de um triângulo; foram postos três pontos em cada lado, e cada ponto foi ligado a todos os pontos dos outros lados" title="meu brasão: um símbolo com 27 linhas e 3 lados, criado a partir de um triângulo; foram postos três pontos em cada lado, e cada ponto foi ligado a todos os pontos dos outros lados" />
 </p>
 
-Criei esse projeto para ajudar pessoas trans após a mudança do nome no cartório, com os outros documentos. Se conhecerem pessoas trans, ou conhecerem quem conheça, compartilhe.
+Criei esse resumo para ajudar pessoas trans após a mudança do nome no cartório, com os outros documentos. Se conhecerem pessoas trans, ou conhecerem quem conheça, compartilhe.
 
 Quando veio finalmente a certidão retificada, além da felicidade, veio a chuva de documentos que teria que alterar. O que, salvo exceções, foi lindo também, porque é foda demais chegar pras pessoas e dizer "tá vendo esse nome aí? Essa pessoa não existe mais, a justiça resolveu me respeitar! Corrige aí pra mim".
 
